@@ -12,7 +12,7 @@ import org.testng.annotations.Parameters;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 /**
- * This is base class
+ * This base class is used to perform all Before and After TestNg annotations
  * @author USER
  *
  */
