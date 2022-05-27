@@ -11,7 +11,11 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+/**
+ * This is base class
+ * @author USER
+ *
+ */
 public class BaseClass {
 	public static WebDriver staticdriver;
 	public WebDriver driver;
